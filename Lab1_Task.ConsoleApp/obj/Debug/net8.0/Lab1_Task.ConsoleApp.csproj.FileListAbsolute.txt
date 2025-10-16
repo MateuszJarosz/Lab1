@@ -1,0 +1,15 @@
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\bin\Debug\net8.0\Lab1_Task.ConsoleApp.exe
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\bin\Debug\net8.0\Lab1_Task.ConsoleApp.deps.json
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\bin\Debug\net8.0\Lab1_Task.ConsoleApp.runtimeconfig.json
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\bin\Debug\net8.0\Lab1_Task.ConsoleApp.dll
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\bin\Debug\net8.0\Lab1_Task.ConsoleApp.pdb
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\obj\Debug\net8.0\Lab1_Task.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\obj\Debug\net8.0\Lab1_Task.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\obj\Debug\net8.0\Lab1_Task.ConsoleApp.AssemblyInfo.cs
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\obj\Debug\net8.0\Lab1_Task.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\obj\Debug\net8.0\Lab1_Task.ConsoleApp.sourcelink.json
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\obj\Debug\net8.0\Lab1_Task.ConsoleApp.dll
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\obj\Debug\net8.0\refint\Lab1_Task.ConsoleApp.dll
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\obj\Debug\net8.0\Lab1_Task.ConsoleApp.pdb
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\obj\Debug\net8.0\Lab1_Task.ConsoleApp.genruntimeconfig.cache
+C:\Users\Mateusz\Source\Repos\jipp-z303-laboratory-1-task-MateuszJarosz\src\Lab1_Task\Lab1_Task.ConsoleApp\obj\Debug\net8.0\ref\Lab1_Task.ConsoleApp.dll
